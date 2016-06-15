@@ -21,4 +21,4 @@ Somehow YouTube adds these to my subscriptions and I already have watched and hi
 Adds option for "Watch Later and Hide" to the subscription page.
 Saves two clicks and movement of the mouse.
 
-![old_vids_remover](https://raw.githubusercontent.com/doofmars/greasemonkey-scripts/master/images/old_vids_remover.png)
+![Watch_Later_and_Hide](https://raw.githubusercontent.com/doofmars/greasemonkey-scripts/master/images/Watch_Later_and_Hide.png)
